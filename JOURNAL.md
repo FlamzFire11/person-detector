@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **person detector**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/145).
-
-
 ## 10/5/2025 - Set up project, github and ironed out idea  
 
 so basically its like those spy things with a microcontroller and like a "laser that is invisible and uses light to see if anyone passes through
@@ -19,4 +15,16 @@ ok byee
 P.S this is what im aiming for !![SCR-20251005-jwxf.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDc1LCJwdXIiOiJibG9iX2lkIn19--b6e2f5722bf2ab77430b76dfe27da50f998eb04a/SCR-20251005-jwxf.png)
 
   
+
+## 11/4/2025 - reasearchedn and got idea  
+
+ok so i googled for so gahddamn long and still cant find it so im changing from the pir sensor i alr have and not gona use an ultrasonic sensor as well like i was planning to
+im just gona have a pir sensor with a esp to do smt to my computer
+also another thing ima do is try and make a few of them to see if i can make it control the lights with people walking in and out
+
+also i found a few useful vids on how sensors alr work in the real world
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODI0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--0d7ad4955a870985c6fbfb20ed500980204be92b/image.png)
+
+p.s also someone asked what this was for and uh its for making sure that lights are turned off when we leave the room! (and also opening ggl class when my parents are near so they dont see me val :p)  
 
